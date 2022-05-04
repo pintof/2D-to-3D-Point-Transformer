@@ -22,3 +22,6 @@ Project for ASI Group - to convert 2D sonar survey data to 3D by combining the s
 ![2D Sonar Scan](https://i.imgur.com/FSPwljY.jpg)
 
 **ROV Depth File** - The input ROV depth files for the application. There are 2 of them, each coincide with a temporally matching Sonar Scan File. A manual is included which explains what the values in a raw ROV Depth File represent.
+
+## Render Of Example 3D Points Output
+![3D Output](https://i.imgur.com/v24R4zh.gif)
