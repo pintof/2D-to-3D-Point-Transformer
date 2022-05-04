@@ -17,9 +17,9 @@ Project for ASI Group - to convert 2D sonar survey data to 3D by combining the s
 
 **Sonar Scan Files** - The input sonar scan files for the application. There are 2 of them, each match up with a respective ROV Depth File. There is a also a 3rd sonar scan file named randomn, which has no matching ROV depth file, so it cannot be run through the main program. A manual is also included which details what all the values in a raw sonar scan file represent. 2D Sonar Scan Files can be viewed using https://www.tritech.co.uk/support-software/seanet-pro-v2-25
 
-*2D Sonar Scan File Screenshot:*
+*2D Sonar Scan File Imaging:*
 
-![2D Sonar Scan](https://i.imgur.com/FSPwljY.jpg)
+![2D Sonar Scan](https://i.imgur.com/TRr8JGR.gif)
 
 **ROV Depth File** - The input ROV depth files for the application. There are 2 of them, each coincide with a temporally matching Sonar Scan File. A manual is included which explains what the values in a raw ROV Depth File represent.
 
